@@ -8,11 +8,6 @@ import {
 import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
-	// {
-	// 	id: 1,
-	// 	icon: <FiGlobe />,
-	// 	url: 'https://www.stoman.me/',
-	// },
 	{
 		id: 1,
 		icon: <FiGithub />,

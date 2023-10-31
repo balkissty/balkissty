@@ -130,7 +130,7 @@ export const singleProjectData = {
         id: 5,
         name: "Youtube",
         icon: <FiYoutube />,
-        url: "https://www.youtube.com/c/StomanStudio",
+        url: "https://balkissty.vercel.app/",
       },
     ],
   },
